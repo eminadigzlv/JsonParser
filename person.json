@@ -1,0 +1,83 @@
+[
+    [
+      {
+        "id": "616e0bd0bd25f0b10ec1647a",
+        "name": "Laurel Rosario",
+        "isActive": true,
+        "age": 31,
+        "eyeColor": "green",
+        "gender": "female",
+        "company": "VOLAX",
+        "email": "laurelrosario@volax.com",
+        "phone": "+1 (804) 574-3846",
+        "address": "984 Raleigh Place, Harold, Northern Mariana Islands, 8144",
+        "about": "Et Lorem minim velit sunt ex. Pariatur sint sunt eiusmod in quis aliqua sint et est officia cupidatat. Fugiat ea proident cillum id est amet excepteur ullamco irure. Non elit anim sint cillum reprehenderit ullamco. Occaecat exercitation dolor id commodo laboris pariatur non laboris aliquip sint fugiat officia.\r\n",
+        "registered": "2014-11-04T01:38:24 -04:00"
+      }
+    ],
+    [
+      {
+        "id": "616e0bd026f09a5fd954fad2",
+        "name": "Tate Berry",
+        "isActive": false,
+        "age": 38,
+        "eyeColor": "brown",
+        "gender": "male",
+        "company": "INFOTRIPS",
+        "email": "tateberry@infotrips.com",
+        "phone": "+1 (870) 506-3216",
+        "address": "332 Amboy Street, Greer, Ohio, 2774",
+        "about": "Proident duis sit elit in amet voluptate. Nulla ea aliquip magna fugiat ipsum. Et velit proident aute mollit exercitation adipisicing reprehenderit sint. Nostrud proident amet non deserunt. Nostrud duis id voluptate ad exercitation Lorem eu cupidatat adipisicing anim fugiat ullamco ipsum excepteur. Elit laborum officia minim reprehenderit nostrud fugiat. Occaecat Lorem deserunt labore labore.\r\n",
+        "registered": "2019-04-01T09:38:06 -04:00"
+      }
+    ],
+    [
+      {
+        "id": "616e0bd0b9e586e6cc3dda48",
+        "name": "Rivera Winters",
+        "isActive": true,
+        "age": 37,
+        "eyeColor": "green",
+        "gender": "male",
+        "company": "NETILITY",
+        "email": "riverawinters@netility.com",
+        "phone": "+1 (804) 403-3528",
+        "address": "863 Gain Court, Salvo, Minnesota, 7461",
+        "about": "Aliqua eu duis occaecat eu culpa occaecat. Quis sunt labore aute ex amet ipsum sunt. Pariatur veniam non est veniam occaecat incididunt aute irure aliqua excepteur et ut. Sit dolore non dolor sit ullamco tempor cupidatat labore. Reprehenderit dolor adipisicing occaecat duis in pariatur sint deserunt aliqua nisi tempor nulla reprehenderit nulla. Qui ut ut labore sit non pariatur ex do occaecat.\r\n",
+        "registered": "2015-05-28T05:32:48 -05:00"
+      }
+    ],
+    [
+      {
+        "id": "616e0bd0f980bc0b99f7071c",
+        "name": "Dawson Walter",
+        "isActive": true,
+        "age": 21,
+        "eyeColor": "blue",
+        "gender": "male",
+        "company": "CORPORANA",
+        "email": "dawsonwalter@corporana.com",
+        "phone": "+1 (947) 516-2863",
+        "address": "148 Devon Avenue, Beaverdale, Pennsylvania, 4540",
+        "about": "Non sint ad incididunt nisi aliqua ad fugiat anim occaecat velit. Officia nisi excepteur aliqua pariatur. In qui amet excepteur laborum occaecat ex minim fugiat adipisicing enim elit. Do eiusmod do cillum ad amet ad exercitation fugiat exercitation incididunt. Commodo labore voluptate consectetur dolor incididunt aliqua cupidatat exercitation sint aliqua amet id minim dolor. Proident ullamco officia consequat commodo voluptate est est Lorem aute anim. Magna sint incididunt ut ullamco id quis proident ex velit commodo incididunt.\r\n",
+        "registered": "2014-06-21T04:31:09 -05:00"
+      }
+    ],
+    [
+      {
+        "id": "616e0bd01a3269a6dbef53a3",
+        "name": "Mcknight Finley",
+        "isActive": false,
+        "age": 22,
+        "eyeColor": "brown",
+        "gender": "male",
+        "company": "ARCTIQ",
+        "email": "mcknightfinley@arctiq.com",
+        "phone": "+1 (938) 507-3911",
+        "address": "923 Meadow Street, Bayview, Michigan, 8700",
+        "about": "Sint est nulla incididunt ullamco id ullamco irure ullamco et laboris laborum eu. Anim laboris fugiat dolor laborum exercitation mollit magna. Lorem duis non quis quis esse ea aliqua anim excepteur do. Proident proident eiusmod qui sunt Lorem ut consectetur eiusmod. Aliqua duis labore sit culpa eiusmod ad.\r\n",
+        "registered": "2014-08-25T05:12:31 -05:00"
+      }
+    ]
+
+]
